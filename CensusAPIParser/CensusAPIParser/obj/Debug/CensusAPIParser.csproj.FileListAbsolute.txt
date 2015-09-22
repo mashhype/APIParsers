@@ -1,0 +1,8 @@
+c:\users\2031361\documents\visual studio 2013\Projects\CensusAPIParser\CensusAPIParser\bin\Debug\CensusAPIParser.exe.config
+c:\users\2031361\documents\visual studio 2013\Projects\CensusAPIParser\CensusAPIParser\bin\Debug\CensusAPIParser.exe
+c:\users\2031361\documents\visual studio 2013\Projects\CensusAPIParser\CensusAPIParser\bin\Debug\CensusAPIParser.pdb
+c:\users\2031361\documents\visual studio 2013\Projects\CensusAPIParser\CensusAPIParser\bin\Debug\Newtonsoft.Json.dll
+c:\users\2031361\documents\visual studio 2013\Projects\CensusAPIParser\CensusAPIParser\bin\Debug\Newtonsoft.Json.xml
+c:\users\2031361\documents\visual studio 2013\Projects\CensusAPIParser\CensusAPIParser\obj\Debug\CensusAPIParser.csprojResolveAssemblyReference.cache
+c:\users\2031361\documents\visual studio 2013\Projects\CensusAPIParser\CensusAPIParser\obj\Debug\CensusAPIParser.exe
+c:\users\2031361\documents\visual studio 2013\Projects\CensusAPIParser\CensusAPIParser\obj\Debug\CensusAPIParser.pdb
