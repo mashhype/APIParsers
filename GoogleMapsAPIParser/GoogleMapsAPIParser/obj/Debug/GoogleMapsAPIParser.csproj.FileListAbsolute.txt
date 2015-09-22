@@ -1,0 +1,9 @@
+c:\users\2031361\documents\visual studio 2013\Projects\GoogleMapsAPIParser\GoogleMapsAPIParser\bin\Debug\GoogleMapsAPIParser.exe.config
+c:\Users\2031361\Documents\Visual Studio 2013\Projects\GoogleMapsAPIParser\GoogleMapsAPIParser\obj\Debug\GoogleMapsAPIParser.csproj.ResolveComReference.cache
+c:\Users\2031361\Documents\Visual Studio 2013\Projects\GoogleMapsAPIParser\GoogleMapsAPIParser\bin\Debug\GoogleMapsAPIParser.exe
+c:\Users\2031361\Documents\Visual Studio 2013\Projects\GoogleMapsAPIParser\GoogleMapsAPIParser\bin\Debug\GoogleMapsAPIParser.pdb
+c:\Users\2031361\Documents\Visual Studio 2013\Projects\GoogleMapsAPIParser\GoogleMapsAPIParser\bin\Debug\Newtonsoft.Json.dll
+c:\Users\2031361\Documents\Visual Studio 2013\Projects\GoogleMapsAPIParser\GoogleMapsAPIParser\bin\Debug\Newtonsoft.Json.xml
+c:\Users\2031361\Documents\Visual Studio 2013\Projects\GoogleMapsAPIParser\GoogleMapsAPIParser\obj\Debug\GoogleMapsAPIParser.csprojResolveAssemblyReference.cache
+c:\Users\2031361\Documents\Visual Studio 2013\Projects\GoogleMapsAPIParser\GoogleMapsAPIParser\obj\Debug\GoogleMapsAPIParser.exe
+c:\Users\2031361\Documents\Visual Studio 2013\Projects\GoogleMapsAPIParser\GoogleMapsAPIParser\obj\Debug\GoogleMapsAPIParser.pdb
