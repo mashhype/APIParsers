@@ -38,7 +38,7 @@ namespace GoogleMapsAPIParser
                 System.Array MyValues = (System.Array) MySheet.get_Range("A" + index.ToString(), "D" + index.ToString()).Cells.Value;
                 ClubList.Add(new Clubs
                 {
-                    Club_ID = MyValues.GetValue(1, 1).ToString(),
+                    ID = MyValues.GetValue(1, 1).ToString(),
                     Name = MyValues.GetValue(1, 2).ToString(),
                     Lat = MyValues.GetValue(1, 3).ToString(),
                     Long = MyValues.GetValue(1, 4).ToString()
