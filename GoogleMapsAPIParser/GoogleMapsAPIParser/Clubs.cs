@@ -14,6 +14,6 @@ namespace GoogleMapsAPIParser
 
         public string ID { get; set; }
 
-        public string Club_Type { get; set; }
+        public string Type { get; set; }
     }
 }
