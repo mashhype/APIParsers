@@ -12,7 +12,7 @@ namespace GoogleMapsAPIParser
 {
     class MyExcel
     {
-        public static string DB_PATH = @"C:\LatLongAllClubs.xlsx";
+        public static string DB_PATH = @"your excel file path here";
         public static List<Clubs> ClubList = new List<Clubs>();
         private static Excel.Workbook MyBook = null;
         private static Excel.Application MyApp = null;
