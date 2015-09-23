@@ -12,7 +12,7 @@ namespace GoogleMapsAPIParser
         public string Lat { get; set; }
         public string Long { get; set; }
 
-        public string Club_ID { get; set; }
+        public string ID { get; set; }
 
         public string Club_Type { get; set; }
     }
