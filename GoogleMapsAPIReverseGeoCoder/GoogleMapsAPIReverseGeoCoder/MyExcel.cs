@@ -9,7 +9,7 @@ namespace GoogleMapsAPIReverseGeoCoder
 {
     class MyExcel
     {
-        public static string DB_PATH = @"C:\Users\2031361\Documents\Visual Studio 2013\Projects\GoogleMapsAPIReverseGeoCoder\GoogleMapsAPIReverseGeoCoder\bin\Debug\input\Competitors_ReverseGeocode.xlsm";
+        public static string DB_PATH = @"your path here";
         public static List<Club> ClubList = new List<Club>();
         private static Excel.Workbook MyBook = null;
         private static Excel.Application MyApp = null;
