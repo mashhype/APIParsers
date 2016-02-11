@@ -1,0 +1,13 @@
+c:\users\2031361\documents\visual studio 2013\Projects\GooglePlacesAPIParser\GooglePlacesAPIParser\bin\Debug\GooglePlacesAPIParser.exe.config
+c:\users\2031361\documents\visual studio 2013\Projects\GooglePlacesAPIParser\GooglePlacesAPIParser\bin\Debug\GooglePlacesAPIParser.exe
+c:\users\2031361\documents\visual studio 2013\Projects\GooglePlacesAPIParser\GooglePlacesAPIParser\bin\Debug\GooglePlacesAPIParser.pdb
+c:\users\2031361\documents\visual studio 2013\Projects\GooglePlacesAPIParser\GooglePlacesAPIParser\bin\Debug\Newtonsoft.Json.dll
+c:\users\2031361\documents\visual studio 2013\Projects\GooglePlacesAPIParser\GooglePlacesAPIParser\bin\Debug\Newtonsoft.Json.xml
+c:\users\2031361\documents\visual studio 2013\Projects\GooglePlacesAPIParser\GooglePlacesAPIParser\obj\Debug\GooglePlacesAPIParser.csprojResolveAssemblyReference.cache
+c:\users\2031361\documents\visual studio 2013\Projects\GooglePlacesAPIParser\GooglePlacesAPIParser\obj\Debug\GooglePlacesAPIParser.csproj.ResolveComReference.cache
+c:\users\2031361\documents\visual studio 2013\Projects\GooglePlacesAPIParser\GooglePlacesAPIParser\obj\Debug\GooglePlacesAPIParser.exe
+c:\users\2031361\documents\visual studio 2013\Projects\GooglePlacesAPIParser\GooglePlacesAPIParser\obj\Debug\GooglePlacesAPIParser.pdb
+C:\Users\2031361\Documents\APIParsers\GooglePlacesAPIParser\GooglePlacesAPIParser\bin\Debug\GooglePlacesAPIParser.exe.config
+C:\Users\2031361\Documents\APIParsers\GooglePlacesAPIParser\GooglePlacesAPIParser\obj\Debug\GooglePlacesAPIParser.csproj.ResolveComReference.cache
+C:\Users\2031361\Documents\APIParsers\GooglePlacesAPIParser\GooglePlacesAPIParser\obj\Debug\GooglePlacesAPIParser.exe
+C:\Users\2031361\Documents\APIParsers\GooglePlacesAPIParser\GooglePlacesAPIParser\obj\Debug\GooglePlacesAPIParser.pdb
